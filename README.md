@@ -124,9 +124,9 @@ Use Case: Enhancing interaction design and visual hierarchy
 Prompt: "How to apply design hierarchy principles to ensure the most critical monitoring information is always prominently displayed in the dashboard?" 
 
 ## Resourse
-[Video](https://youtu.be/PCKML9DXrpU)
-[Bluesky](https://bsky.app/profile/shuhandong.bsky.social/post/3lneptncgec2x)
-[Instructions Doc](https://github.com/hansama0902/Reactive-Programming_Electricity-Mining-Monitor-Dashboard-/blob/main/Instructions%20Doc/Monitor%20Dashboard%20Documentation.pdf)
+[Video](https://youtu.be/PCKML9DXrpU)  
+[Bluesky](https://bsky.app/profile/shuhandong.bsky.social/post/3lneptncgec2x)  
+[Instructions Doc](https://github.com/hansama0902/Reactive-Programming_Electricity-Mining-Monitor-Dashboard-/blob/main/Instructions%20Doc/Monitor%20Dashboard%20Documentation.pdf)  
 
 ## License
 
