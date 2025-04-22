@@ -75,9 +75,9 @@ Date,Time,Electricity Price ($/kWh)
 ### Mining Machines CSV
 
 ```
-id,name,status,temperature,hashrate,uptime,location
-miner-1,Mining Rig 1,Online,65,85,240,Room 1
-miner-2,Mining Rig 2,Offline,52,0,0,Room 2
+id,status,temperature,hashrate,uptime,location
+miner-ip1,Online,65,85,240,Room 1
+miner-ip2, Offline,52,0,0,Room 2
 ...
 ```
 [Example Mining Machine.csv Link](https://github.com/hansama0902/Reactive-Programming_Electricity-Mining-Monitor-Dashboard-/blob/main/Example%20CSV/completed_mining_machine_table.csv)
