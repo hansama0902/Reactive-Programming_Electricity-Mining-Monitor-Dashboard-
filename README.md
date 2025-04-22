@@ -96,6 +96,34 @@ miner-2,Mining Rig 2,Offline,52,0,0,Room 2
 
 This Observable project offers an interactive dashboard for analyzing mining machine operations and electricity pricing data. Users upload relevant CSV files, apply interactive filters, and set price thresholds. The dashboard presents summary statistics, visual charts, and detailed alert tables. It incorporates predictive analytics for forecasting future electricity prices. All elements are reactive, providing real-time updates as users interact with the dashboard. The project is modular and leverages Observable’s Inputs, Plot, d3 libraries, and includes abstracted forecasting utilities reusable across various analytical tools.
 
+## Usage of GenAI
+
+I utilized Claude and ChatGPT 4o throughout the development process to address various development and design challenges:  
+
+**Electricity Price Prediction and Data Analysis**
+Use Case: Developing algorithms and visualization components for the electricity price prediction module  
+Prompt: "How can I create an accurate short-term prediction model based on historical electricity price data?  
+
+**CSV Data Processing and Formatting**
+Use Case: Implementing CSV upload and parsing functionality  
+Prompt: "How to efficiently process large CSV files using d3, including data validation and transformation?"  
+
+**Responsive Interface Development**
+
+Use Case: Creating responsive interfaces with @john-guerra/reactive-widgets  
+Prompt: "How to design a reactive component where filter changes immediately reflect in data visualizations and statistics?"  
+
+**Observable Platform Integration**
+
+Use Case: Resolving module import and publishing issues  
+Prompt: "In Observable notebooks, how can I correctly export and import custom components to ensure functionality reuse between different notebooks?"  
+
+**User Interface Optimization**
+
+Use Case: Enhancing interaction design and visual hierarchy  
+Prompt: "How to apply design hierarchy principles to ensure the most critical monitoring information is always prominently displayed in the dashboard?"  
+
+
 ## License
 
 MIT License — Free for personal and academic use.
