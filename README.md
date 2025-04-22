@@ -130,4 +130,4 @@ Prompt: "How to apply design hierarchy principles to ensure the most critical mo
 
 ## License
 
-MIT License — Free for personal and academic use.
+MIT License
